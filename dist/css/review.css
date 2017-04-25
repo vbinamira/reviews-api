@@ -1,0 +1,9 @@
+.title { font-size: 1.5em}
+#review-box { padding: 15px; font-family: Helvetica; color:black}
+.review-name { font-size: 1.1em }
+.review-text { font-size: .9em }
+.review-logo { height: 16px}
+@media screen and (max-width: 414px)
+{
+	#review-box{margin-bottom: 30px;}
+}
