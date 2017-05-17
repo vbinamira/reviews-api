@@ -1,1 +1,3 @@
-This is a sample on how to retrieve api data from Yelp
+## Yelp API Integration with AJAX
+
+Implementating Yelp API through AJAX
