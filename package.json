@@ -1,0 +1,35 @@
+{
+  "name": "reviews-api",
+  "version": "1.0.0",
+  "description": "Yelp API reviews authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbinamira/reviews-api.git"
+  },
+  "keywords": [
+    "yelp",
+    "api",
+    "node"
+  ],
+  "author": "Vince Binamira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbinamira/reviews-api/issues"
+  },
+  "homepage": "https://github.com/vbinamira/reviews-api#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.3",
+    "fullcalendar": "^3.4.0",
+    "jsonwebtoken": "^7.4.1",
+    "method-override": "^2.3.9",
+    "morgan": "^1.8.2",
+    "yelp": "^1.0.2",
+    "yelp-v3": "0.0.5"
+  }
+}
