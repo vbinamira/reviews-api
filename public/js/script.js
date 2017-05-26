@@ -1,5 +1,5 @@
 $.ajax({
-	url: '/includes/get-reviews.php',
+	url: '/reviews',
 })
 .done(function(data) {
 	var raw = $.parseJSON(data);
